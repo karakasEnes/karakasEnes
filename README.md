@@ -1,4 +1,21 @@
-### Hi there 👋
+## Hi there 👋 Good day! I'm Enes 💕
+
+
+I am interested in anything related to coding! It fascinates me. I'm working on being a Full-Stack developer. I teach technologies on my youtube channel.
+
+### My tech skills
+
+* Javascript
+* HTML
+* CSS
+* Sass
+* node.js
+* React
+* Redux
+* MongoDB
+* python
+
+
 
 <!--
 **karakasEnes/karakasEnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
