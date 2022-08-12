@@ -1,4 +1,4 @@
-## Hi there 👋 Good day! I'm Enes 💕
+## Hi there 👋 Good day! I'm Enes
 
 🎯 I'm Mechanical Engineer who switched to Software Engineer. Hard work and decisions have paid off!
 
@@ -18,7 +18,10 @@
 ### 📽️Youtube Full Free Courses!
 - [JavaScript Full Course - Intermediate & Advanced](https://www.youtube.com/playlist?list=PLliDAwW17gHqQgPXdbPxpERtTTGloOZ9D)
 
+
 ---
+### 💕 Connect with me 💕
+
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6PAPSyn0Im5EnUtsPyf_cg?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UC6PAPSyn0Im5EnUtsPyf_cg)     [<img alt="TikTok Adress" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=black&color=white"/>](https://www.tiktok.com/@sharecodecamp)   [<img alt="odysee Adress" src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=odysee&logoColor=white&color=EF1970"/>](https://odysee.com/@shareCodeCamp:3)
 
 <!--
