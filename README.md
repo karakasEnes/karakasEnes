@@ -4,7 +4,7 @@
 
 ❤️ I am in love with coding. That's right, I'm in love with it! It fascinates me!
 
-👉 My journey began in 2012 when I saw a C++ book in a university library. Additionally, I learned VBA during that time. In 2019, I began seriously considering changing my career. I learned Python in June 2019. Since 2020, I've been learning and coding technologies such as Javascript (and others below mentioned).
+👉 My journey began in 2011-2012 when I saw a C++ book in a university library. I learned VBA during that time. In 2019, I began seriously considering changing my career. I learned Python in June 2019. Since 2020, I've been learning and coding technologies such as Javascript (and others below mentioned).
 
 📚 I love books, movies, learning, having relaxed time.
 
