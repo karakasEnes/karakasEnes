@@ -8,7 +8,7 @@
 
 ---
 
-👉 (My Brief History): My journey began in 2011-2012 when I saw a C++ book in a university library. During that time, I learned VBA. In 2019, I began seriously considering changing my career. I learned Python in June 2019. Since 2020, I've been learning and coding technologies such as Javascript (and others below mentioned).
+👉 (My Brief History): My journey began in 2011-2012 when I saw a C++ book at my university library. During that time, I learned VBA. In 2019, I began seriously considering changing my career. I learned Python in June 2019. Since 2020, I've been learning and coding technologies such as Javascript (and others below mentioned).
 
 ---
 
