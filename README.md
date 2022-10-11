@@ -21,6 +21,9 @@
 
 ### 📽️Youtube Full Free Courses!
 - [JavaScript Full Course - Intermediate & Advanced](https://www.youtube.com/playlist?list=PLliDAwW17gHqQgPXdbPxpERtTTGloOZ9D)
+- [FlexBox Course](https://www.youtube.com/playlist?list=PLliDAwW17gHrHvr4eqWGhm8nkYRPUEuL_)
+- [Grid Course](https://www.youtube.com/playlist?list=PLliDAwW17gHoxJA5ypsrZ9N3Wk8THQLLt)
+- [Git & GitHub Course](https://www.youtube.com/playlist?list=PLliDAwW17gHpOnDypfbz2XlWznp5-IzGY)
 
 
 ---
